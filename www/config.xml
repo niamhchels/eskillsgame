@@ -5,6 +5,7 @@
 		id="com.game.eskillsgame"
 		version="0.0.1">
 	<name>Niamh and Chelsey eskills memory game</name>
+<description>this eskills game was developed by Niamh and Chelsey for ITGirls 2014!</description>
 		<gap:platform name="android" />
 		<gap:platform name="ios" />
 		<preference name="orientation" value="portrait" />
